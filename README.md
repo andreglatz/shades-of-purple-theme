@@ -10,8 +10,9 @@ A theme for Ulauncher.
 
 ```
 mkdir -p ~/.config/ulauncher/user-themes
-git clone https://github.com/Surendrajat/SeaOwl-Ulauncher-theme \
-  ~/.config/ulauncher/user-themes/SeaOwl
+
+git clone https://github.com/andreglatz/shades-of-purple-theme \
+~/.config/ulauncher/user-themes/shades-of-purple
 ```
 
 ## Credits
